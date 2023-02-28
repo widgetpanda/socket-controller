@@ -24,7 +24,7 @@ Available port for ESP8266:
 5. Copy all `code.ino` content and paste into your IDE.
 6. Upload or flash the code.
 
-## Reference
+## References
 
 - Arduino (https://www.arduino.cc/en/software)
 - ESP8266 (https://github.com/esp8266/Arduino)
