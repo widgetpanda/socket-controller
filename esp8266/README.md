@@ -21,7 +21,7 @@ Available port for ESP8266:
 2. Start Arduino and open the **Preferences** window.
 3. Enter `https://arduino.esp8266.com/stable/package_esp8266com_index.json` into the **File > Preferences > Additional Boards Manager URLs** field of the Arduino IDE. You can add multiple URLs, separating them with commas.
 4. Open **Boards Manager** from **Tools > Board** menu and install _esp8266_ platform (and don't forget to select your ESP8266 board from _Tools > Board_ menu after installation).
-5. Copy all `code.ino` content and paste into your IDE.
+5. Copy all [code.ino](code.ino) content and paste into your IDE.
 6. Upload or flash the code.
 
 ## References
