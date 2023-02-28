@@ -15,7 +15,7 @@ Available port for ESP8266:
 
 ???
 
-## Code
+## Programming
 
 1. Install classic Arduino IDE, download from here https://www.arduino.cc/en/software/OldSoftwareReleases
 2. Start Arduino and open the **Preferences** window.
@@ -24,8 +24,13 @@ Available port for ESP8266:
 5. Copy all `code.ino` content and paste into your IDE.
 6. Upload or flash the code.
 
-### Reference
+## Reference
 
-- https://www.arduino.cc/en/software
-- https://github.com/esp8266/Arduino
-- https://www.youtube.com/watch?v=AFUAMVFzpWw
+- Arduino (https://www.arduino.cc/en/software)
+- ESP8266 (https://github.com/esp8266/Arduino)
+- How To Program An ESP8266 With the Arduino IDE - YouTube (https://www.youtube.com/watch?v=AFUAMVFzpWw)
+
+## Etc
+
+- CP210x Driver (https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+- CH340G Driver (https://sparks.gogo.co.nz/ch340.html)
