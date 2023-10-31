@@ -18,7 +18,7 @@ Available port for ESP8266:
 - [Buy Relay Board 6 Channels](https://www.google.com/search?q=buy+relay+module+5v+6+channel)
 
 ### Scheme:
-![esp8266-scheme.png](esp8266-scheme.png)
+![scheme.png](scheme.png)
 
 ### Pinouts:
 - `GPIO16` (D0) —> `IN1`
